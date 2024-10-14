@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bf538fe7.css",
+    "main.js": "./static/js/main.2f0ca359.js",
+    "static/media/id.png": "./static/media/id.f7449d171e51da78157e.png",
+    "static/media/constitution.png": "./static/media/constitution.4f34de2495ce89ba9b4f.png",
+    "static/media/Lepses.png": "./static/media/Lepses.641e74c47163101dd561.png",
+    "static/media/Stweak.png": "./static/media/Stweak.402e58601cc509cf4102.png",
+    "static/media/apna.png": "./static/media/apna.ab1272ddd90475e6ceb1.png",
+    "static/media/netflix.png": "./static/media/netflix.451df338dcf1f9475324.png",
+    "static/media/portfolio.png": "./static/media/portfolio.fd9e979ad453cf67910c.png",
+    "static/media/gocip.png": "./static/media/gocip.6aef6fae8c5e7c0aaf78.png",
+    "static/media/IEEE.png": "./static/media/IEEE.3ed57770a7e7122427f2.png",
+    "static/media/st.png": "./static/media/st.9fb1322b0855434b410a.png",
+    "static/media/HeroImage.jpg": "./static/media/HeroImage.cd8856dab457936d8bd2.jpg",
+    "static/media/feedback.png": "./static/media/feedback.0fe941a06b9b0ac59a07.png",
+    "index.html": "./index.html",
+    "main.bf538fe7.css.map": "./static/css/main.bf538fe7.css.map",
+    "main.2f0ca359.js.map": "./static/js/main.2f0ca359.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.2f0ca359.js"
+  ]
+}
